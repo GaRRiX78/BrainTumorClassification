@@ -1,2 +1,3 @@
 # BrainTumorClassification
-Using Deep learning techniques
+Using Deep learning techniques and MRI dataset
+
